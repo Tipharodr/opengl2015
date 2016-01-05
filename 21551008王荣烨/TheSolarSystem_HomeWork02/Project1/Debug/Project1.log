@@ -1,0 +1,19 @@
+﻿生成启动时间为 2016/1/5 17:08:34。
+     1>项目“C:\Users\Hardor\Desktop\Project1\Project1\Project1.vcxproj”在节点 2 上(Build 个目标)。
+       项目文件包含 ToolsVersion="12.0"。此工具集可能未知或缺失(您可以通过安装相应版本的 MSBuild 来解决该问题)，或者该生成因策略原因已被强制更改为特殊 ToolsVersion。将此项目视作具有 ToolsVersion="4.0"。有关更多信息，请参见 http://go.microsoft.com/fwlink/?LinkId=291333。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Project1.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         F:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt new_solar_system.cpp
+         new_solar_system.cpp
+       Link:
+         F:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hardor\Desktop\Project1\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO OpenGL32.lib GLu32.lib GLaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Hardor\Desktop\Project1\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hardor\Desktop\Project1\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\new_solar_system.obj
+         Project1.vcxproj -> C:\Users\Hardor\Desktop\Project1\Project1\Debug\Project1.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Project1.unsuccessfulbuild”。
+         正在对“Debug\Project1.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Hardor\Desktop\Project1\Project1\Project1.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.60
